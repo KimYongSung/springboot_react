@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+
+spring:
+  mvc:
+    static-path-pattern: /static/**
